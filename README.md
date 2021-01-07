@@ -14,7 +14,7 @@
 <img src="https://github.com/chaitravi-ce/PCB_Designing-LSA/blob/master/Assets/PCB%20Design.PNG" height = 450/>
 
 * Front View of the Board
-<img src="https://github.com/chaitravi-ce/PCB_Designing-LSA/blob/master/Assets/Front%20View.PNG" height = 450/>
+<img src="https://github.com/chaitravi-ce/PCB_Designing-LSA/blob/master/Assets/Front%20View.png" height = 450/>
 
 * Bottom View of the Board
-<img src="https://github.com/chaitravi-ce/PCB_Designing-LSA/blob/master/Assets/Bottom%20View.PNG" height = 450/>
+<img src="https://github.com/chaitravi-ce/PCB_Designing-LSA/blob/master/Assets/Bottom%20View.png" height = 450/>
